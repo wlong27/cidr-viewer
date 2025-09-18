@@ -1,0 +1,10 @@
+{
+  "apiBaseUrl": "http://localhost:8080/api",
+  "apiTimeout": 30000,
+  "features": {
+    "enableDebugMode": false,
+    "enableAnalytics": false
+  },
+  "version": "1.0.0",
+  "_comment": "This file can be modified at runtime without rebuilding the application"
+}

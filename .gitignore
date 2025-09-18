@@ -1,1 +1,29 @@
+# Airbase
 .airbase/airbase.link.json
+backend/.airbase/airbase.link.json
+
+# Go backend
+backend/cidr-viewer
+backend/cidr-viewer.exe
+backend/docs/
+
+# Node.js frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+
+# General
+.DS_Store
+*.log
+*.tmp
+*.temp
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+Thumbs.db
